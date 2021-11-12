@@ -19,6 +19,12 @@ if (isset($_GET['act'])) {
       case 'gioithieu':
       include "gioithieu.php";
       break;
+      case 'dangnhap':
+        include "login.php";
+        break;
+        case 'dangky':
+          include "dangky.php";
+          break;
 
     default:
       include "home.php";
