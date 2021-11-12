@@ -472,36 +472,7 @@
   </section>
 
   <!-- Logo Brand Block -->
-  <div class="brand-logo wow bounceInUp animated">
-    <div class="container">
-      <div class="row">
-        <div class="home-banner col-lg-2 hidden-md col-xs-12 hidden-sm"> </div>
-        <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
-          <div class="testimonials-section">
-            <div class="offer-slider parallax parallax-2">
-              <ul class="bxslider">
-                <li>
-                  <div class="avatar"><img src="images/member1.png" alt="Image"></div>
-                  <div class="testimonials">Chất Lượng Tuyệt Vời</div>
-                  <div class="clients_author">Smith John <span>Khách Hàng</span> </div>
-                </li>
-                <li>
-                  <div class="avatar"><img src="images/member2.png" alt="Image"></div>
-                  <div class="testimonials">Xe Mới, Hiện Đại , Chất Lượng Tuyệt Vời</div>
-                  <div class="clients_author">Sahara Anderson <span>Khách Hàng</span> </div>
-                </li>
-                <li>
-                  <div class="avatar"><img src="images/member3.png" alt="Image"></div>
-                  <div class="testimonials">Chất Lượng Tuyệt Vời, Dịch Vụ Tốt</div>
-                  <div class="clients_author">Stephen Smith <span>Khách Hàng</span> </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
 </div>
 <!-- JavaScript -->
 <script type="text/javascript" src="js/jquery.min.js"></script>

@@ -32,15 +32,6 @@
                         <div class="item-title"><a href="index.php?act=chitietsp" title="Retis lapen casen">Gorgeous
                             Mercedes-Benz E-Class All-Terrain Luxury</a> </div>
                         <div class="item-content">
-                          <div class="rating">
-                            <div class="ratings">
-                              <div class="rating-box">
-                                <div class="rating" style="width:80%"></div>
-                              </div>
-                              <p class="rating-links"><a href="#">1 Review(s)</a> <span class="separator">|</span> <a
-                                  href="#">Add Review</a> </p>
-                            </div>
-                          </div>
                           <div class="item-price">
                             <div class="price-box"><span class="regular-price"><span class="price">$49000.00</span>
                               </span> </div>
@@ -78,15 +69,6 @@
                         <div class="item-title"><a href="index.php?act=chitietsp" title="Retis lapen casen">Gorgeous
                             Mercedes-Benz E-Class All-Terrain Luxury</a> </div>
                         <div class="item-content">
-                          <div class="rating">
-                            <div class="ratings">
-                              <div class="rating-box">
-                                <div class="rating" style="width:80%"></div>
-                              </div>
-                              <p class="rating-links"><a href="#">1 Review(s)</a> <span class="separator">|</span> <a
-                                  href="#">Add Review</a> </p>
-                            </div>
-                          </div>
                           <div class="item-price">
                             <div class="price-box"><span class="regular-price"><span class="price">$49000.00</span>
                               </span> </div>
@@ -124,15 +106,6 @@
                         <div class="item-title"><a href="index.php?act=chitietsp" title="Retis lapen casen">Gorgeous
                             Mercedes-Benz E-Class All-Terrain Luxury</a> </div>
                         <div class="item-content">
-                          <div class="rating">
-                            <div class="ratings">
-                              <div class="rating-box">
-                                <div class="rating" style="width:80%"></div>
-                              </div>
-                              <p class="rating-links"><a href="#">1 Review(s)</a> <span class="separator">|</span> <a
-                                  href="#">Add Review</a> </p>
-                            </div>
-                          </div>
                           <div class="item-price">
                             <div class="price-box"><span class="regular-price"><span class="price">$49000.00</span>
                               </span> </div>

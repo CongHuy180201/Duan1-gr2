@@ -135,7 +135,8 @@
 
                       <li class="level0 parent drop-menu"> <a class="level-top" href="index.php?act=sanpham"><span>Danh
                             Sách Xe</span></a></li>
-                      <li class="level0 parent drop-menu"> <a class="level-top" href="#"><span>Giới Thiệu</span></a>
+                      <li class="level0 parent drop-menu"> <a class="level-top"
+                          href="index.php?act=gioithieu"><span>Giới Thiệu</span></a>
                       </li>
                       <li class="mega-menu hidden-sm"> <a class="level-top" href="index.php?act=huongdan"><span>Hướng
                             Dẫn</span></a> </li>

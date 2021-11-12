@@ -4366,7 +4366,7 @@ ul.pdt-list li.item a img.image-hover {
 .offer-slider p {
   color: #777;
   padding: 0;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: normal;
 }
 .offer-slider a.shop-now {
@@ -11936,11 +11936,9 @@ button.button.login:before {
 }
 
 .brand-logo {
-  margin: 0px 0px 50px 0px;
-  padding: 0px 0px;
-  background: url(../images/testimonials-bg-img1.jpg) no-repeat bottom left;
+  background-color: white;
   overflow: hidden;
-  padding-bottom: 360px;
+  padding-bottom: 200px;
 }
 
 .brand-logo .container {
@@ -14476,32 +14474,29 @@ button.btn-share,
 .avatar img {
   border-radius: 999px;
   margin-bottom: 10px;
-  width: auto;
   display: inline-block;
   border: 8px rgba(255, 255, 255, 0.2) solid;
-  width: 130px;
 }
 .testimonials {
-  color: #fff;
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  color: blue;
+  font-family: "Saira Condensed", sans-serif;
+  font-size: 25px;
   margin-bottom: 25px;
   line-height: 1.6em;
   padding: 0px 0px;
 }
 .clients_author {
   font-size: 22px;
-  font-family: "Saira Condensed", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 500;
-  color: #d9eb3d;
+  color: black;
   letter-spacing: 0.5px;
 }
 .clients_author span {
   font-size: 18px;
   font-family: "Saira Condensed", sans-serif;
   font-weight: normal;
-  color: #fff;
-  display: inline-block;
+  color: black;
   margin-left: 7px;
   letter-spacing: 0.5px;
 }

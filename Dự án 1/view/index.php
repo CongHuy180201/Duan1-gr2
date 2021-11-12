@@ -16,6 +16,10 @@ if (isset($_GET['act'])) {
       include "chitietsp.php";
       break;
 
+      case 'gioithieu':
+      include "gioithieu.php";
+      break;
+
     default:
       include "home.php";
       break;
